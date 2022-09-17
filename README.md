@@ -36,13 +36,9 @@ para fazer o back-end com framework Express e Sequelize.
 
 
 ```  
+npm app.js
+```
+
+```
 npm install express
-```
-
-```
-npm install body-parser
-```
-
-```
-npm install sequelize-CLI
 ```
