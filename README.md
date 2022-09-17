@@ -12,7 +12,7 @@ para fazer o back-end com framework Express e Sequelize.
 
 
 
-# Índice
+## Índice
 
 * [Título e Imagem de capa](#Titulo-e-Imagem-de-Capa)
 * [Badges](#badges)
