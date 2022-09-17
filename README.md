@@ -27,6 +27,10 @@ para fazer o back-end com framework Express e Sequelize.
 * [Licença](#Licença)
 * [Conclusão](#Conclusão)
 
+## :hammer: Funcionalidades do sistema
+
+- `Funcionalidade 1` : Cadastrar os jogos 1
+- `Funcionalidade 2` : Consumir a API
 
 <h4>Para rodar esse projeto na sua máquina, por favor digite:</h4>
 
