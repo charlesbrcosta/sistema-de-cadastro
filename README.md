@@ -1,5 +1,5 @@
 # Sistema de cadastro de jogos em nodejs com FCL Express e Sequelize
-
+> :video_game: Projeto em construção :video_game:
 ![Badge em Desenvolvimento](https://img.shields.io/badge/Status-EM%20DESENVOLVIMENTO-orange)
 ![Badge Licença node.js](https://img.shields.io/badge/license-NODE.JS-brightgreen)
 ![Badge Versao node.js](https://img.shields.io/badge/version-v12.22.9-brightgreen)
@@ -8,7 +8,7 @@
 Este projeto esta sendo desenvolvimento para efetuar cadastro de jogos eletrônicos utiliznado o node.js
 para fazer o back-end com framework Express e Sequelize.
 
-> :video_game: Projeto em construção :video_game:
+
 
 # Índice
 
